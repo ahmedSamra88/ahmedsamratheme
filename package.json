@@ -17,6 +17,7 @@
   "author": "Salla",
   "dependencies": {
     "animejs": "^3.2.1",
+    "bootstrap": "^5.3.3",
     "fslightbox": "^3.3.0-2",
     "lite-youtube-embed": "^0.2.0",
     "mmenu-light": "^3.0.9",
